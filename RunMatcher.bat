@@ -1,1 +1,3 @@
-".\jdk-15\bin\java" -jar ".\matcher-all.jar"
+@echo off
+echo Running Matcher...
+".\jdk\bin\java" -jar ".\matcher-all.jar"
